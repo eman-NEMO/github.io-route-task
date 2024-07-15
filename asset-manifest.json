@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eman-NEMO/github.io/github.io-route-task/static/css/main.1799cbdf.css",
-    "main.js": "/eman-NEMO/github.io/github.io-route-task/static/js/main.977c503b.js",
-    "static/js/453.a870a59c.chunk.js": "/eman-NEMO/github.io/github.io-route-task/static/js/453.a870a59c.chunk.js",
-    "index.html": "/eman-NEMO/github.io/github.io-route-task/index.html",
-    "main.1799cbdf.css.map": "/eman-NEMO/github.io/github.io-route-task/static/css/main.1799cbdf.css.map",
-    "main.977c503b.js.map": "/eman-NEMO/github.io/github.io-route-task/static/js/main.977c503b.js.map",
-    "453.a870a59c.chunk.js.map": "/eman-NEMO/github.io/github.io-route-task/static/js/453.a870a59c.chunk.js.map"
+    "main.css": "/github.io-route-task/static/css/main.1799cbdf.css",
+    "main.js": "/github.io-route-task/static/js/main.5d352a65.js",
+    "static/js/453.a870a59c.chunk.js": "/github.io-route-task/static/js/453.a870a59c.chunk.js",
+    "index.html": "/github.io-route-task/index.html",
+    "main.1799cbdf.css.map": "/github.io-route-task/static/css/main.1799cbdf.css.map",
+    "main.5d352a65.js.map": "/github.io-route-task/static/js/main.5d352a65.js.map",
+    "453.a870a59c.chunk.js.map": "/github.io-route-task/static/js/453.a870a59c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1799cbdf.css",
-    "static/js/main.977c503b.js"
+    "static/js/main.5d352a65.js"
   ]
 }
